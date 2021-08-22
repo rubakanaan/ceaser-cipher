@@ -35,3 +35,11 @@ def test_crack2():
     actual = crack('xi lph iwt qthi du ixbth, xi lph iwt ldghi du ixbth.')
     expected='it was the best of times, it was the worst of times.'
     assert actual == expected
+def test_crack3():
+    actual = crack('xi lph iwt qthi du ixbth, xi lph iwt ldghi du ixbth.')
+    expected='it was the best of times, it was the worst of times.'
+    assert actual == expected
+def test_crack4():
+    actual = crack('xi lph iwt qthi du ixbth, xi lph iwt ldghi du ixbth.')
+    expected='it was the best of times, it was the worst of times.'
+    assert actual == expected
